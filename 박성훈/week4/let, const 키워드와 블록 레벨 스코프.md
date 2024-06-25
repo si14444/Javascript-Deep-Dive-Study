@@ -36,6 +36,7 @@ var vs let vs const
 ---
 - 변수 선언에는 기본적으로 const 사용
 - let은 재할당이 필요한 경우에 한정하여 사용
+
 ![image](https://github.com/houony/Javascript-Deep-Dive-Study/assets/99787274/ef508d86-d884-4443-bb93-d6705e7d1bc0)
 
 
